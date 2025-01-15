@@ -1,2 +1,2 @@
 # text-binary-file-reader
-Reads and displays contents of text and binary files.
+Reads and displays content of text and binary files.
